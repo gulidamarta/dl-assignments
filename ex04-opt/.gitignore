@@ -1,10 +1,8 @@
 output_plots/
 results*/
-dataset/
 
 # big files
 *.synctex.gz*
-*.pickle
 
 # latex
 *.aux
